@@ -1,2 +1,20 @@
-# boto-7B-colab
-Notebooks para testar os modelos Boto
+# boto-notebooks
+Exemplos de como executar o boto-7B
+
+| Colab | Modelo | Tamanho | Quantização 
+| --- | --- | --- | --- |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_2_k.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 2.72 GB | 2_K |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_3_k_m.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 3.52 GB | 3_K_M |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_3_k_s.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 3.16 GB | 3_K_S |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_4_0.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 4.11 GB | 4.0 |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_4_k_s.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 4.14 GB | 4_K_S |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_3_k_l.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 3.82 GB | 3_K_L |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_4_k_m.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 4.37 GB | 4_K_M |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_4_1.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 4.55 GB | 4.1 |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_5_0.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 5 GB | 5.0 |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_5_1.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 5.44 GB | 5.1 |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_5_k_m.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 5.13 GB | 5_K_M |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_5_k_s.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 5 GB | 5_K_S |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_6_k.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 5.94 GB | 6_K |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/boto-notebooks/blob/main/boto-7B/boto_7b_llamacpp_8_0.ipynb) | [lucianosb/boto-7B-GGUF](https://huggingface.co/lucianosb/boto-7B-GGUF) | 7.7 GB | 8.0 |
+
